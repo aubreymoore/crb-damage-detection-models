@@ -1,8 +1,0 @@
-names:
-- healthy
-- dead
-- vcut
-- damaged
-path: /home/aubrey/Desktop/crb-damage-detection-models/datasets/TEMP
-train: images/train
-val: images/val

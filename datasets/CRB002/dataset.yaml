@@ -1,0 +1,7 @@
+names:
+- healthy
+- damaged
+- dead
+- vcut
+path: CRB002
+train: images
