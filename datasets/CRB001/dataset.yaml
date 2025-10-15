@@ -1,0 +1,3 @@
+path: CRB001
+names: [healthy, dead, vcut, damaged]
+train: images
