@@ -1,0 +1,9 @@
+names:
+- healthy
+- damaged
+- dead
+- vcut
+nc: 4
+path: /home/aubrey/Desktop/crb-damage-detection-models/datasets/CRB003/Guam10_dead_anns
+train: images/train
+val: images/val

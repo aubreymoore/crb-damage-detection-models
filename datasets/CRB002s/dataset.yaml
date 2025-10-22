@@ -1,0 +1,8 @@
+names:
+- healthy
+- damaged
+- dead
+- vcut
+path: /home/aubrey/Desktop/crb-damage-detection-models/datasets/CRB002s
+train: images/train
+val: images/val
