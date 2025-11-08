@@ -1,0 +1,7 @@
+names:
+- live
+- dead
+nc: 2
+path: /home/aubrey/Desktop/crb-damage-detection-models/datasets/2025-11-07
+train: images/train
+val: images/val

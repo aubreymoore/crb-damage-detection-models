@@ -1,0 +1,9 @@
+names:
+- dead
+- damaged
+- healthy
+- vcut
+nc: 4
+path: /home/aubrey/Desktop/crb-damage-detection-models/datasets/2025-11-02
+train: images/train
+val: images/val

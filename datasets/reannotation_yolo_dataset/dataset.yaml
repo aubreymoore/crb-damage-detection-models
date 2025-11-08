@@ -1,0 +1,9 @@
+
+names:
+- healthy
+- damaged
+- dead
+- vcut
+path: /home/aubrey/Desktop/crb-damage-detection-models/datasets/reannotation_yolo_dataset
+train: images/train
+val: images/val
